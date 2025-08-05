@@ -54,8 +54,8 @@ There is also an old design for the [eye actuation](https://cad.onshape.com/docu
 
 The current state of the facemask is as follows:
 
-<div style="display: flex; gap: 1rem;">
-<img src="./images/face-1.png" width="300" height="300" />
+<div style="display: flex; align-items: center; gap: 1rem;">
+<div><img src="./images/face-1.png" width="300" height="300" /></div>
 <img src="./images/face-2.png" width="300" height="300" />
 </div>
 
