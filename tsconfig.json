@@ -1,12 +1,6 @@
 {
-  "include": [
-    "packages/**/*.ts",
-    "packages/**/*.vue",
-    "packages/**/*.md"
-  ],
-  "vueCompilerOptions": {
-    "vitePressExtensions": [
-      ".md"
-    ]
-  }
+	"include": ["packages/**/*.ts", "packages/**/*.vue", "packages/**/*.md"],
+	"vueCompilerOptions": {
+		"vitePressExtensions": [".md"]
+	}
 }

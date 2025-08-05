@@ -8,4 +8,16 @@ An excerpt about [Neuro-sama](https://en.wikipedia.org/wiki/Neuro-sama) from Wik
 
 <p style="text-align: justify;">As the name of the project suggest, this is a fan project to recreate the avatar of the AI VTuber in the form of humanoid robot in realistic proportion as closely as possible. The goals is to mimic human and have the AI be able to pilot the robot as the brains, complete with the sensory input.</p>
 
-There is a roadmap and task todo available on [Trello](https://trello.com/b/5YM2i79k/neurobot-1000-tasks), some progress log and research note being done on [Google Docs](https://docs.google.com/document/d/1tviNW9GpNmZhO2pqJLebRfayhfRYGw4r1T3Ncf5c9SY/edit?tab=t.0), a design document (also on [Google Docs](https://docs.google.com/document/d/1_gY5UZQh4Kz2YYL1XvHLDYsqq42asHxa3bZvdFq3N7U/edit?tab=t.0#heading=h.6gvmchs8hzet)), an AI summary and analysis of the project on [Google Docs](https://docs.google.com/document/d/1p15iiicFBDwWs5qrAErYYSRKYWAtDBnSNWQUW2t2j9Q/edit?tab=t.0#heading=h.yw0ccleg1j1n), and lastly the notes and progress from one of the contributor (Matthew) on another [Google Docs](https://docs.google.com/document/d/1USKIx4qvF5gEVc0TgfPfUURr_R-Tp42Q1ZkasvdIU7k/edit?tab=t.0). Help with documenting it all is welcome.
+## Current State of the Project
+
+The project is still very much alive and we welcome any volunteer to help. More information on specific topic can be found on the respective page. The number in the parentheses is the number of contributor actively working on the subject at the moment of writing, **not the total number of contributor**. The current active contributor is 4 people, but the total number of contributor is much bigger. To see the full contributor list, you can visit the github repository, and the discord channel.
+
+- [Mechanical System (2)](/wiki/mechanical-progress)
+- [Electronic System (2)](/wiki/electronic-progress)
+- [Control System (1)](/wiki/control-progress)
+
+This project also accept non-engineering contribution like helping with documenting the progress, maintain the supporting infrastructure (like this site), and helping with knowledge base in general. This project does not accept a monetary contribution at the moment.
+
+## Older Logs
+
+All of the link listed in this sectio are old and sometimes outdated. But nevertheless someone may found it interesting to see the progress and discussion that leads up to the current state of the project. There is a roadmap and task todo available on [Trello](https://trello.com/b/5YM2i79k/neurobot-1000-tasks), some progress log and research note being done on [Google Docs](https://docs.google.com/document/d/1tviNW9GpNmZhO2pqJLebRfayhfRYGw4r1T3Ncf5c9SY/edit?tab=t.0), a design document (also on [Google Docs](https://docs.google.com/document/d/1_gY5UZQh4Kz2YYL1XvHLDYsqq42asHxa3bZvdFq3N7U/edit?tab=t.0#heading=h.6gvmchs8hzet)), an AI summary and analysis of the project on [Google Docs](https://docs.google.com/document/d/1p15iiicFBDwWs5qrAErYYSRKYWAtDBnSNWQUW2t2j9Q/edit?tab=t.0#heading=h.yw0ccleg1j1n), and lastly the notes and progress from one of the contributor (Matthew) on another [Google Docs](https://docs.google.com/document/d/1USKIx4qvF5gEVc0TgfPfUURr_R-Tp42Q1ZkasvdIU7k/edit?tab=t.0). Help with documenting it all is welcome.
