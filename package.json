@@ -41,10 +41,10 @@
 		"function-plot": "^1.25.1",
 		"markdown-it-mathjax3": "^4.3.2",
 		"mermaid": "^11.9.0",
-		"smol-toml": "^1.4.0",
+		"smol-toml": "^1.4.1",
 		"tsx": "catalog:",
-		"vitepress": "^1.6.3",
+		"vitepress": "^1.6.4",
 		"vitepress-plugin-mermaid": "^2.0.17",
-		"vue": "^3.5.17"
+		"vue": "^3.5.18"
 	}
 }
