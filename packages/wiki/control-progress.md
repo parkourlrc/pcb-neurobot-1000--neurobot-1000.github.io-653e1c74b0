@@ -30,6 +30,7 @@ flowchart TD;
 - [Robot Network (Transport using ad-hoc wi-fi network)](https://github.com/SimLeek/robot_network)
 - [Robotar](https://github.com/SimLeek/robotar)
 - [Robobrain](https://github.com/SimLeek/robobrain)
+- [Seno](https://github.com/SimLeek/seno)
 
 
 <p style="text-align: justify;">Neuro-sama already have the capabilities to take image input as vedal mentioned. However, the high-level controller will need the camera feed to be further processed before it can be used. This is also true for other sensor data such as microphone, limb position, and touch sensor. The high-level controller will likely be a system comprised of interdependent neural-network model due to the complexity of the robot.</p>
