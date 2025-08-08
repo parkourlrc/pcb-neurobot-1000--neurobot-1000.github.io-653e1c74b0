@@ -49,6 +49,7 @@ export default withMermaid({
 						{ text: "Mechanical System", link: "/wiki/mechanical-progress" },
 						{ text: "Electronic System", link: "/wiki/electronic-progress" },
 						{ text: "Control System", link: "/wiki/control-progress" },
+            { text: "Simulator System", link: "/wiki/simulator-progress" },
 					],
 				},
 				{
